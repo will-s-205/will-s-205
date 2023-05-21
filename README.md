@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @will-s-205
-- ✨ [My Portfolio](https://will-s-205.github.io/fcc-portfolio/)
+- ✨ My [Portfolio](https://will-s-205.github.io/fcc-portfolio/)
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
