@@ -1,8 +1,9 @@
- - 👋 Hi, I’m @will-s-205
+- 👋 Hi, I’m @will-s-205
+- 🌱 I’m currently learning JavaScript and SQL
+- 🏐 In my free time I like to play volleyball
 - ✨ My [Portfolio](https://will-s-205.github.io/fcc-portfolio/)
 
 <!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
