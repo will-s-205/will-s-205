@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">I am a Software Engineer and I love learning new stuff<br>All of my projects are available at: </h3>
-<p align="center"> <a href="https://williamstep.com/" target="_blank"><img src="https://img.shields.io/badge/-williamstep.com-blue?style=for-the-badge" alt="Website_Adress" height="50" width="250" /></a> </p>
+<p align="center"> <a href="https://williamstep.com/" target="_blank"><img src="https://img.shields.io/badge/-williamstep.com-blue?style=for-the-badge" alt="Website_Adress" height="40" width="200" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
