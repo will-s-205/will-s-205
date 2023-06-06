@@ -2,18 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">I am a Software Engineer and I love learning new stuff<br>All of my projects are available at: </h3>
-<h3 align="center"></h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=will-s-205&label=Profile%20views&color=0e75b6&style=flat" alt="will-s-205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=will-s-205" alt="will-s-205" /></a> </p>
-
-<p align="left"> <a href="https://williamstep.com/" target="blank"><img src="https://img.shields.io/badge/-williamstep.com-orange" alt="https://williamstep.com/" /></a> </p> -->
-
-<p align="center"> <a href="https://williamstep.com/" target="blank"><img src="https://img.shields.io/badge/-williamstep.com-blue?style=for-the-badge" alt="Website_Adress" /></a> </p>
-
-<!-- - 👨‍💻 All of my projects are available at <a href="https://williamstep.com/" target="blank"><img src="https://img.shields.io/badge/-williamstep.com-blue?style=for-the-badge" alt="Website_Adress" /></a> -->
-<!-- - 🏐 In my free time I like to play volleyball -->
+<p align="center"> <a href="https://williamstep.com/" target="_blank"><img src="https://img.shields.io/badge/-williamstep.com-blue?style=for-the-badge" alt="Website_Adress" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
