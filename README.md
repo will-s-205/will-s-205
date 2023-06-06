@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A software engineer at #100Devs</h3>
+<h3 align="center">I am a Software Engineer and I love learning new stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=will-s-205&label=Profile%20views&color=0e75b6&style=flat" alt="will-s-205" /> </p>
 
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/williamstep4" target="blank"><img src="https://img.shields.io/twitter/follow/williamstep4?logo=twitter&style=for-the-badge" alt="williamstep4" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://williamstep.com/](https://williamstep.com/)
+- 🏐 In my free time I like to play volleyball
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
