@@ -7,7 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/williamstep4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="williamstep4" height="30" width="40" /></a>
-<a href="https://fb.com/william-step" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william-step" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/williamstep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william-step" height="30" width="40" /></a> -->
 <a href="https://instagram.com/williamstep205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamstep205" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodeExplorer205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codeexplorer205" height="30" width="40" /></a>
 </p>
