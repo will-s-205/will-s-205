@@ -10,6 +10,7 @@
 <!-- <a href="https://fb.com/williamstep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william-step" height="30" width="40" /></a> -->
 <a href="https://instagram.com/williamstep205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamstep205" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodeExplorer205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codeexplorer205" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/williamstep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamstep/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
