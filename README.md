@@ -26,3 +26,6 @@
   <a align="center" href="https://will-s-205.github.io" target="_blank">
     <img src="https://media.giphy.com/media/OGGwlV1RYgX2U/giphy.gif" alt="our world img"/>
   </a></div>
+
+<!-- Most Used Languages -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=will-s-205&show_icons=true&locale=en&layout=compact" alt="Most Used Languages img" /></p> -->
